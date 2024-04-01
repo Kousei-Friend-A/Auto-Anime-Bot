@@ -2,13 +2,13 @@
     "Author" : "Siam Chowdhury",
     "Licensed_under" : "GNU GPL V-3.0",
     "owner" : ["5971676967"],
-    "database_url" : "mongodb+srv://runa19395:Sd2GtYuR7sB3p28U@waifu.o4ygost.mongodb.net/?retryWrites=true&w=majority",
-    "main_channel" : "-1001979732311",
+    "database_url" : "mongodb+srv://manudarkdevil911:manu1234@cluster0.alnwwhb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "main_channel" : "-1002023249945",
     "thumbnail_url" : "https://te.legra.ph/file/f681b2bbc5471e5059054.jpg",
-    "files_channel" : -1002135913588,
-    "production_chat" : -1002035172400,
-    "api_id" : 28986163,
-    "api_hash" : "07225d0de9bee70666517315d2174171",
-    "main_bot" : "7109524997:AAHF2haxOGuuGjQJsoXCUejD7nZ9OO9Uv1g",
-    "client_bot" : "6979815777:AAHnZRIaF-N4XsJyfaBVIpwzyYV0t2LHJIw"
+    "files_channel" : -1002094965664,
+    "production_chat" : -1002023249945,
+    "api_id" : 8143727,
+    "api_hash" : "e2e9b22c6522465b62d8445840a526b1",
+    "main_bot" : "5280448907:AAHnMAQVAFaaDNW9KbIPI6Kn7s8e3VJ6lc0",
+    "client_bot" : "6617377767:AAHAoIL9XJ2onDGs0C4YrzB2qQHxlNUCgEY"
 }
